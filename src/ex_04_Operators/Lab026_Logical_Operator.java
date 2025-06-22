@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lanb026_Logical_Operator {
+public class Lab026_Logical_Operator {
     public static void main(String[] args) {
     // AND and OR gate logics needs to be applied
         boolean a = true;
