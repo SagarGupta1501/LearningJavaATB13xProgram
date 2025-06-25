@@ -19,7 +19,7 @@ public class Lab066_Triangle {
             System.out.println("Isoseles triangle");
 
         else
-            System.out.println("Scalence traingle");
+            System.out.println("Scalene traingle");
 
 
     }
