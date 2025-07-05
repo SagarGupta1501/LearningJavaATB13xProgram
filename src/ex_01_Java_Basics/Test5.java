@@ -1,8 +1,6 @@
 package ex_01_Java_Basics;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class test5 {
+public class Test5 {
 
     public static void main(String[] args) {
         int a = 10;
